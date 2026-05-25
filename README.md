@@ -151,7 +151,3 @@ Python, Java, C++, JavaScript, HTML/CSS, SQL, Data Analysis, Machine Learning, P
 - No password reset or email verification flow.
 
 ---
-
-## License
-
-This project was built for academic purposes. Feel free to extend it.
